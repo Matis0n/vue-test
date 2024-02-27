@@ -3,7 +3,7 @@ import { createStore } from 'vuex';
 export default createStore({
     state: {
         isPoimt:1,// rjvtybn
-        isCartOpen: false,
+        isCartOpen: false,//1212121212121212
         cartCount: 0, // Общее количество товаров
         cartItem: [], // Массив товаров
         totalCount: 0, // Общая сумма товаров
